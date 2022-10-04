@@ -1,0 +1,12 @@
+//whatToSay = "hello rld, again de nuevo!"
+//whatToSay = "hello wrld, again de nuevo!"
+//whatToSay := "hello world, con :="//string: se autdeclara con este simbolo loco :=
+//sayHelloWorld(whatToSay) /*"hello world again" */
+//fmt.Println("Hello World!")
+//fmt.Print("this is me text")
+//fmt.Print("this is some more xt")
+
+//se borro para pegar el codigo del rsorse doctor.go
+//func sayHelloWorld(whToSay string) {
+//m.Println(whatToSay)
+
